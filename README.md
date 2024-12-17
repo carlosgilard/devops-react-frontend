@@ -8,7 +8,7 @@ This project was generated using [Nx](https://nx.dev).
 
 🔎 **Smart, Fast and Extensible Build System**
 
-## Adding capabilities to your workspace
+## Adding capabilities to your workspace 
 
 Nx supports many plugins which add capabilities for developing different types of applications and different tools.
 
